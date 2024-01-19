@@ -1,5 +1,9 @@
-Papers for pre-read for *Mechanistic, statistical, and causal modeling in drug discovery*
+Material for the lecture on *Mechanistic, statistical, and causal modeling in drug discovery*
 ===
+
+This repo contains material accompanying the lecture on *Mechanistic, statistical, and causal modeling in drug discovery* in the Master Program *Drug Sciences* at the University of Basel. The next lecture takes place on March 21st, 2024, at Biozentrum Basel.
+
+## For pre-read
 
 The three review papers introduce modeling techniques that are commonly used in drug discovery.
 
